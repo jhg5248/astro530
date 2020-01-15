@@ -5,4 +5,4 @@ setup(names='astro530',
       version='0',
       author='James Gurian',
       packages=find_packages(),
-      install_requires=['numpy', 'scipy', 'import-ipynb'])
+      install_requires=['numpy', 'import-ipynb'])
