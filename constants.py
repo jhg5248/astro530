@@ -11,3 +11,9 @@ k = 1.380649e-16
 
 #sb, erg cm^-3 K^-4
 sigma_sb = 5.6703744e-5
+
+#electron charge
+e = 4.8033e-10
+
+#electron mass
+me = 9.1093897e-28
